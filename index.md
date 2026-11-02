@@ -19,6 +19,23 @@ Available on Agensi. Single-user license.
 
 [Watch on YouTube](https://youtu.be/thB-ZFvSV0k)
 
+## Why I built it
+
+I built these skills to help me study and write my master's dissertation.
+Two goals shaped them:
+
+1. **A second brain for academic research.** Every reading becomes small,
+   linked, searchable notes, each tied to a page and to the question I am
+   asking. I can find what I read, and see how one author connects to another.
+2. **Input for writing.** The notes keep the quote, the page and the citation
+   in one consistent structure, so an agent, or I, can draft from them and
+   every claim traces back to its source. The pack does not write the paper
+   for you. It gives you material you can trust and trace.
+
+The aim was a system that is easy to control and to interact with: plain
+Markdown files that you own, a handful of commands, and a workflow you can
+see.
+
 ## What it does
 
 - Takes notes from a PDF, one note per concept, in three kinds:

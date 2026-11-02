@@ -21,6 +21,23 @@ Disponível na Agensi. Licença de um usuário.
 
 ![O fluxo de trabalho](../assets/d1.png)
 
+## Por que eu criei
+
+Criei estas skills para me ajudar a estudar e a escrever a minha dissertação
+de mestrado. Dois objetivos moldaram o sistema:
+
+1. **Um segundo cérebro para pesquisa acadêmica.** Cada leitura vira notas
+   pequenas, ligadas e pesquisáveis, cada uma presa a uma página e à pergunta
+   que estou fazendo. Eu acho o que li e vejo como um autor se liga a outro.
+2. **Insumo para a escrita.** As notas guardam a citação literal, a página e a
+   referência numa estrutura consistente, então um agente, ou eu, consegue
+   redigir a partir delas, e cada afirmação volta à sua fonte. O pacote não
+   escreve o trabalho por você. Ele entrega material em que você pode confiar
+   e que dá para rastrear.
+
+A ideia foi montar um sistema fácil de controlar e de usar: arquivos Markdown
+que são seus, poucos comandos e um fluxo que dá para enxergar.
+
 ## O que faz
 
 - Extrai notas de um PDF, uma por conceito, em três tipos: **autoral** (ideia
