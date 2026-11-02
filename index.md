@@ -14,10 +14,10 @@ against a controlled glossary, and read through your research question.
 Available on Agensi. Single-user license.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1em 0;">
-  <iframe src="https://www.youtube.com/embed/thB-ZFvSV0k" title="literature-notes demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/6mFDuLZG1jc" title="literature-notes demo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
 
-[Watch on YouTube](https://youtu.be/thB-ZFvSV0k)
+[Watch on YouTube](https://www.youtube.com/watch?v=6mFDuLZG1jc)
 
 ## Why I built it
 
